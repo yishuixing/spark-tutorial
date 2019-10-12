@@ -1,0 +1,6 @@
+hadoop java scala
+spark  golang
+hive
+flink
+scala
+python php ruby
